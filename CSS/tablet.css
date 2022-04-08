@@ -1,0 +1,12 @@
+@media (min-width: 930px) {
+    .all-cards--container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .plans-container--slider{
+        overflow-x: hidden;
+    }
+    .main-tables-container{
+        overflow-x: hidden;
+    }
+}
